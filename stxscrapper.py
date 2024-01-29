@@ -5,8 +5,8 @@ import os
 import time
 import random
 
-API_ID = 13586086
-API_HASH = "c3b5390a93d5244e722fc4b8a0c1ac2a"
+API_ID = your_api_id
+API_HASH = "your_api_hash"
 
 client = TelegramClient('my_account', api_id=API_ID, api_hash=API_HASH)
 
